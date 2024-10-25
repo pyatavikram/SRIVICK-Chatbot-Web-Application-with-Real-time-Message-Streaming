@@ -16,7 +16,7 @@ Developed by **PyataVikram** and **Gundeboina Srikar**, this web app uses **HTML
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/pyatavikram/SRIVICK-Chatbot-WebApp.git](https://github.com/pyatavikram/SRIVICK-Chatbot-Web-Application-with-Real-time-Message-Streaming.git)
+   git clone https://github.com/pyatavikram/SRIVICK-Chatbot-Web-Application-with-Real-time-Message-Streaming.git
 2. **Open and Interact**:
    Launch index.html in your favorite browser and start chatting!
 3. **Customize Your Experience**:
